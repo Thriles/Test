@@ -1,0 +1,120 @@
+Useful:
+EX/VT-less - Stray hits
+lk-mk-hk | 122 dmg / 213 stun
+lp > lk-mk-hk | 122 dmg / 213 stun
+cr.lp/st.lp > st.lp xx lp.Straight | 102 dmg / 205 stun
+cr.lp > cr.lp xx mp.Straight xx CA | 360 dmg / 253 stun
+
+cr.mp/st.mk > st.lk-mk-hk | 168 dmg / 289 stun
+cr.mp/st.mk > lp xx lk.Straight | 167 dmg / 283 stun
+
+cr.hp xx hk.Smash > lp.Straight xx CA | 475 dmg / 405 stun
+st.hk > cr.mp xx mk.Smash xx CA | 445 dmg / 360 stun
+
+- Cr.HP xx HK Screw Smash, LP Dash Straight.
+     This is your optimal hard punish combo after a jump-in. You’ll get these if your opponent throws a bad fireball, or if you neutral jump a command grab.
+- St.HK, cr.MP xx MP Dash Straight. 
+     You won’t always be able to combo into the optimal cr.HP xx HK Screw Smash, LP Dash Straight, especially if you’re in the corner or particularly far away. Although lower damage, this is a reliable alternative.
+- CC cr.HP, HK Screw Smash, MP Dash Straight. 
+     This is your damage-optimal CC combo for punishing whiffed DPs. It can also cancel into Super.
+
+
+Buffered Charge
+st.lp xx lp.Straight | 102 dmg / 205 stun
+st.mp xx mk.Straight xx CA | 390 dmg / 235 stun
+st.mp xx mk.Straight | 160 dmg / 235 stun
+
+3 Frame Starters
+lk-mk-hk | 122 dmg / 213 stun
+
+V-Trigger Extensions
+lk-mk-hk xx VT > mp.Straight xx kick x4 | 253 dmg / 373 stun
+lk-mk-hk xx VT > EX.Straight xx kick x2 | 284 dmg / 396 stun
+lk-mk xx VT > cr.hp xx hp.Straight xx kick x4 | 267 dmg / 398 stun
+lk-mk xx VT > cr.hp xx hk.Grand xx kick x3 > punch x1 xx CA | 424 dmg / 408 stun
+
+
+4 Frame Starters
+st.lp xx lp.Straight | 102 dmg / 205 stun
+cr.lp > lk-mk-hk | 138 dmg / 259 stun
+cr.lp > cr.lp xx EX.Straight | 177 dmg / 293 stun
+cr.lp > cr.lp xx mp.Straight xx CA | 360 dmg / 253 stun
+
+V-Trigger Extensions
+cr.lk xx VT > cr.mp xx mk.Smash xx kick x4 | 241 dmg / 345 stun
+cr.lk xx VT > cr.mp xx mk.Smash xx punch x4 xx CA | 388 dmg / 435 stun
+cr.lk xx VT > cr.mp xx mk.Grand xx kick x3 > punch x1 xx CA | 389 dmg / 360 stun (probs not worth over the above combo but easier to execute)
+
+
+5 Frame Starters
+st.mp xx mk.Smash | 160 dmg / 235 stun
+st.mp xx EX.Straight/Smash | 205 dmg / 280 stun
+st.mp xx mk.Smash xx CA | 390 dmg / 235 stun
+
+V-Trigger Extensions
+st.mp xx mk.Smash xx VT > mp.Straight xx kick x4 | 326 dmg / 430 stun
+st.mp xx mk.Smash xx VT > EX.Straight xx kick x2 | 353 dmg / 452
+st.mp xx VT > cr.hp xx hk.Smash > EX.Straight xx kick x2 | 374 dmg / 508 stun
+st.mp xx VT > cr.hp xx hk.Smash > lp.Straight xx kick x 3 > punch x1 xx CA | 501 dmg / 495 stun
+
+
+6 Frame Starters
+cr.mp/st.mk > lp xx lk.Smash | 167 dmg / 283 stun
+cr.mp/st.mk > lp xx EX.Smash | 207 dmg / 323 stun
+cr.mp/st.mk > lp xx lk.Smash xx CA | 386 / 283 stun
+cr.mp/st.mk > st.lk-mk-hk | 168 dmg / 289 stun
+
+st.mk > st.mp xx mk.Smash | 203 dmg / 310 stun
+st.mk > st.mp xx EX.Straight | 243 dmg / 350 stun
+st.mk > st.mp xx mk.Smash xx CA | 434 dmg / 310 stun
+
+V-Trigger Extensions
+cr.mp/st.mk > lk-mk xx VT > cr.hp xx hk.Smash > lp.Straight xx kick x4 | 287 dmg / 479 stun
+cr.mp/st.mk > lk-mk xx VT > cr.hp xx hk.Smash > EX.Straight xx kick x2 | 317 dmg / 499 stun
+- cr.mp/st.mk > lk-mk xx VT > cr.hp xx hk.Smash > lp.Straight xx kick x3 > punch x1 xx CA | 451 dmg / 484 stun (Looks nice but really unoptimal unless your looking for a hit confirm)
+st.mk > st.mp xx VT > cr.hp xx hk.Smash > lp.Straight xx kick x4 | 332 dmg / 510 stun
+st.mk > st.mp xx VT > cr.hp xx hk.Smash > EX.Straight xx kick x2 | 370 dmg / 534 stun
+st.mk > st.mp xx VT > cr.hp xx hk.Smash > lp.Straight xx kick x3 > punch x1 xx CA | 496 dmg /515 stun
+
+
+7 Frame Starters
+cr.mk-mk | 96 dmg / 172 stun
+
+V-Trigger Extensions
+cr.mk-mk xx VT > cr.hp xx hk.Smash > lp.Straight xx kick x4 | 312 dmg / 492 stun
+cr.mk-mk xx VT > cr.hp xx hk.Smash > EX.Straight xx kick x2 | 350 dmg / 516 stun
+cr.mk-mk xx VT > cr.hp xx hk.Smash > lp.Straight xx kick x 3 > punch x1 xx CA | 476 dmg / 497 stun
+
+
+9 Frame Starters
+
+cr.hp xx hk.Smash > lp.Straight | 244 dmg / 405 stun
+cr.hp xx hk.Smash > EX.Straight | 300 dmg / 445 stun
+cr.hp xx hk.Smash > lp.Straight xx CA | 475 dmg / 405 stun
+
+st.hk > cr.mp xx mk.Smash | 214 dmg / 360 stun
+st.hk > cr.mp xx EX.Straight/EX.Smash | 254 dmg / 400 stun
+st.hk > cr.mp xx mk.Smash xx CA | 445 dmg / 360 stun
+
+V-Trigger Extensions
+cr.hp xx hk.Smash xx VT > mp.Straight xx kick x4 | 346 dmg / 480 stun
+cr.hp xx hk.Smash xx VT > EX.Straight xx kick x2 | 373 dmg / 502
+cr.hp xx hk.Smash xx VT > mp.Straight xx kick x3 > punch x1 xx CA | 508 dmg / 495 stun
+
+st.hk > cr.mk-mk xx VT cr.hp xx hk.Smash > lp.Straight xx kick x4 | 340 dmg / 564 stun
+st.hk > cr.mk-mk xx VT cr.hp xx hk.Smash > EX.Straight xx kick x 2 | 370 dmg / 584 stun
+st.hk > cr.mk-mk xx VT cr.hp xx hk.Smash > lp.Straight xx kick x3 > punch 1 xx CA | 504 dmg / 569 stun
+
+
+
+
+These are the top priority things that I practice in Training Room to keep myself sharp. Add your own main practice sequences below also!
+- Cr.LK into Under Impact (LK>MK>HK). This is often your best confirm off of a low, and can be done without charge. There are limited oki options afterwards, but the main advantage is the strong corner carry.
+- Cr.HP xx HK Screw Smash, LP Dash Straight. This is your optimal hard punish combo after a jump-in. You’ll get these if your opponent throws a bad fireball, or if you neutral jump a command grab.
+- St.HK, cr.MP xx MP Dash Straight. You won’t always be able to combo into the optimal cr.HP xx HK Screw Smash, LP Dash Straight, especially if you’re in the corner or particularly far away. Although lower damage, this is a reliable alternative.
+- CC cr.HP, HK Screw Smash, MP Dash Straight. This is your damage-optimal CC combo for punishing whiffed DPs. It can also cancel into Super.
+- Comboing out of overhead. The key combo here is linking with st.MP xx MP Dash Straight (for damage or cancel into super) or MK Dash Low (for oki). This is your optimal ending off of overhead but if you’re far away you may have to combo with st.LP xx LP Dash Straight.
+- CC st.HK, dash forward, Hard Pressure. When you CC in footsies, you’ll be too far away to combo into Hard Pressure straight away, which is typically your optimal follow up. You need to learn to time the dash forward immediately after confirming the CC hit with st.HK. This makes st.HK a lot more threatening in footsies.
+- The two-bar special (V-Trigger only). Balrog can get monster damage with two bars off of V-Trigger. A standard combo is cr.MK>cr.MK xx V-Trigger, cr.HP xx HK Screw Smash, EX Dash Low >K xx V-Skill > P, EX Dash Straight > K > K. This is a fairly complicated combo, but it unlocks one of the main comeback capabilities of the character. You can also do this combo starting with the EX Dash Low from footsies range, for similarly huge damage. There are at least a dozen variations for what you can do after V-Trigger on hit and on block, but this is one you need to learn!
+
+Thanks to AdnanKhan47 for pointing out one crucial execution barrier: LP Dash Straight (or Dash Low) xx V-Skill. This is absolutely vital for much of Balrog's meaty pressure, and although it may be the toughest item on this list, it's also one of the most important.
